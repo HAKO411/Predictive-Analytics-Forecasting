@@ -13,6 +13,6 @@ Horowitz, Likelihood-ratio, hist_prediction
 * Direct Elasticities, cross elasticities
 * Willingness to pay
 * Discount rate, predict market share
-* 
+
 ## E7. Forecasting
 E7. Actual market share, predict market share, revenue
